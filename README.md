@@ -12,3 +12,10 @@
 * Boolean is a type in python which takes two values. The first value is true, we use only uppercase T and other is false, we use uppercase F.
 * If you cast T to int or float it gives 1, F to int or float gives 0.
 * Similarly, if you cast 1 to boolean gives T, 0 to boolean gives F.
+# Variables and expressions
+* We call numbers as operands and maths symbols as operators.
+* In python division examples. eg 25/5 = 5 , 25/6 = 4.167.
+* In python3, we can use double slash division(eg:20//2) for integers, where the result is rounded.In some cases the result is not same as regular division.
+* Expressions in the bracket are performed first.
+* we use colon to denote a value.
+* we use asignment operator to asign variable. 
