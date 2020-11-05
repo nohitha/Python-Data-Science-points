@@ -19,5 +19,6 @@
 * Expressions in the bracket are performed first.
 * we use colon to denote a value.
 * we use asignment operator to asign variable. 
-# Strings
+# Strings Operations
+* 
 
