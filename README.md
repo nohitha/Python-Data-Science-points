@@ -20,5 +20,12 @@
 * we use colon to denote a value.
 * we use asignment operator to asign variable. 
 # Strings Operations
-* 
+* String is sequence of characters within single or double quotes. String can be a space or digit or special charaters.
+* we can bind or assign a string to another variable. String is an ordered sequence. Each element in the sequence can be accessed by using index number of the string array.
+* We can use negative indexing where -1 is the last index and so on till first element.
+* We can perform sequence operation, slicing, len to find the length of string, concatenate or combine string using '+' symbol, replicate strings by '*'.
+* Strings are immutable(can not be changed).
+* to print \ use double slash \\ or use r in front of the string. eg: print(hello \\ world) -> hello \ world. eg: print(r"hello \ world") -> hello \ world.
+* String methods work on lists and tuples. Strings have a seconnd set of methods that work only on strings. 
+* few methods are upperstring, substring-> if sub string is not found we get -1.
 
